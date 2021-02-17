@@ -1,3 +1,14 @@
+/*
+* Gab Social
+* Bryan Parks
+* v1.0
+* Last update: 17 February 2021
+*
+* This app is just runs a webview that loads gab.com. It doesn't do anything that your mobile browser
+* doesn't already do, but it does give you an icon for the app drawer and allows for using it as an
+* actual app on your device.
+*/
+
 package com.automagicmobile.gabsocial;
 
 import androidx.appcompat.app.AppCompatActivity;
